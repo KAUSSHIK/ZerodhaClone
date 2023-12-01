@@ -45,3 +45,14 @@ target =”_blank” → opens in new page
 - \<b> , <i> : bold and italic
 - \<button onclick=""> : ugly default button
 - \<input id="" type = ""> : takes in input
+
+Final Result:
+
+Actual Landing Page:
+<img width="1440" alt="Screenshot 2023-12-01 at 5 35 28 PM" src="https://github.com/KAUSSHIK/ZerodhaClone/assets/32772050/35ef8036-bbd4-4521-a7b5-579ae77dd0ee">
+
+
+My Cloned Landing Page:
+<img width="1440" alt="Screenshot 2023-12-01 at 5 35 12 PM" src="https://github.com/KAUSSHIK/ZerodhaClone/assets/32772050/77d5e379-f642-46b8-b7fb-6c22be111b6e">
+
+
