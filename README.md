@@ -1,5 +1,5 @@
 # Notes
-# Lesson 1
+# Lesson 1 - Week 0
 
 ## HTML, CSS, JS, DOM
 
