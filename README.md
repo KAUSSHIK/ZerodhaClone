@@ -48,7 +48,7 @@ target =”_blank” → opens in new page
 
 Final Result:
 
-Actual Landing Page:
+Actual Landing Page of Zerodha:
 <img width="1440" alt="Screenshot 2023-12-01 at 5 35 28 PM" src="https://github.com/KAUSSHIK/ZerodhaClone/assets/32772050/35ef8036-bbd4-4521-a7b5-579ae77dd0ee">
 
 
